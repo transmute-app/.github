@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 
 contact_links:
-  - name: Support
-    url: mailto:support@transmute.sh
-    about: For sensitive requests please feel free to send us an email.
+  - name: Website
+    url: https://transmute.sh
+    about: Looking for our website?
