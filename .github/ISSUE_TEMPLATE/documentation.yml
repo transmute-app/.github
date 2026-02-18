@@ -1,0 +1,22 @@
+name: Documentation
+description: Improvements or additions to documentation
+labels: ["documentation"]
+type: Documentation
+body:
+  - type: textarea
+    id: issue
+    attributes:
+      label: Issue
+      placeholder: What is missing or unclear?
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested Improvement
+      placeholder: What should be added or changed?
+
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      placeholder: File, page, or section.
