@@ -10,4 +10,4 @@
 > [!WARNING]
 > I quite literally *just* launched this project, and it will be under active development for some time - however I would love for you to come along and enjoy the ride. Leave a star if you are interested!
 
-Transmute is a self-hosted application distributed under the MIT license. It is fully free, fully self-hosted, and fully without limits, FOREVER!
+Transmute is a self-hosted application distributed under the MIT license. It is free, self-hosted, and comes without limits, FOREVER!
