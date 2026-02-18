@@ -4,6 +4,6 @@ This is a special repository used to manage some shared organization documentati
 | File Types | Location |
 | ---------- | -------- |
 | Default communtiy health files | [docs](docs) |
-| Organization README | [profile](profile) |
-| Shared Issue Templates (Not Used Yet) | [.github/ISSUE_TEMPLATE/](.github/ISSUE_TEMPLATE/) |
+| Organization README | [profile/README.md](profile/README.md) |
+| Shared Issue Templates (Not Used Yet) | [.github/ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE) |
 | Custom Coding Agents (Not Used) | [agents](agents) |
