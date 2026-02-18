@@ -1,0 +1,26 @@
+name: Task
+description: Internal engineering work or technical task
+labels: ["task"]
+type: Task
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      placeholder: What needs to be done?
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      placeholder: Technical details or notes.
+
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria
+      placeholder: |
+        - [ ] Condition 1
+        - [ ] Condition 2
