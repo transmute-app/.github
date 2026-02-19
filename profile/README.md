@@ -1,8 +1,8 @@
 <h1>
-  <picture height=25px>
-    <source media="(prefers-color-scheme: dark)" srcset="../images/beaker-white.svg" height=25px/>
-    <source media="(prefers-color-scheme: light)" srcset="../images/beaker-black.svg" height=25px/>
-    <img alt="Transmute logo, a small flask" src="../images/beaker-white.svg" />
+  <picture height=23px>
+    <source media="(prefers-color-scheme: dark)" srcset="../images/beaker-white.svg" height=23px/>
+    <source media="(prefers-color-scheme: light)" srcset="../images/beaker-black.svg" height=23px/>
+    <img alt="Transmute logo, a small flask" src="../images/beaker-white.svg" height=23px />
   </picture>
   Transmute
 </h1>
