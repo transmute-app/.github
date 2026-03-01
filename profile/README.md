@@ -11,9 +11,7 @@ Transmute is a self-hosted application distributed under the MIT license. It is 
 
 This application is under active development, want to support us? Give us a star or jump in and contribute!
 
-### Helpful Links
-| Resource              | Link |
-| --------------------- | ---- |
-| Website               | [transmute.sh](https://transmute.sh/) |
-| ghcr.io (Primary)     | [transmute-app/transmute](https://github.com/transmute-app/transmute/pkgs/container/transmute) |
-| Docker Hub (Fallback) | [neonvariant/transmute](https://hub.docker.com/repository/docker/neonvariant/transmute/general) |
+## Screenshots
+| Converter / Home | File Lists | Settings |
+| --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/transmute-app/transmute/refs/heads/main/assets/screenshots/converter.png" width=100%> | <img src="https://raw.githubusercontent.com/transmute-app/transmute/refs/heads/main/assets/screenshots/files.png" width=100%> | <img src="https://raw.githubusercontent.com/transmute-app/transmute/refs/heads/main/assets/screenshots/settings.png" width=100%> |
