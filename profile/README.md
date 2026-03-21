@@ -7,9 +7,9 @@
   Transmute
 </h1>
 
-Transmute is a self-hosted application distributed under the MIT license. It is free, self-hosted, and without limits, FOREVER!
+Transmute is a free, open source, self-hosted file converter built for privacy and automation. Convert images, video, audio, documents, spreadsheets, subtitles, and fonts entirely locally, with no file size limits and no third-party access to your files. Deploy in seconds with Docker.
 
-This application is under active development, want to support us? Give us a star or jump in and contribute!
+Transmute is distributed under the MIT license. It is free, self-hosted, and without limits, **FOREVER!** This application is in beta, want to support us? Give us a star or jump in and contribute!
 
 ## Screenshots
 | Converter / Home | File Lists | Settings |
