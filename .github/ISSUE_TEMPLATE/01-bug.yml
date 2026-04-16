@@ -40,7 +40,6 @@ body:
     attributes:
       label: Logs / Screenshots
       description: Paste logs or screenshots if applicable.
-      render: shell
 
   - type: input
     id: version
